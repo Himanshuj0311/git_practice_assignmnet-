@@ -11,7 +11,7 @@ else{console.log("No");}
 
 let str="madam"
 let bag="";
-for(let i<str.lengthi;i<=0;i++){
+for(let i<str.lengthi;i<=0;i--){
 bag+=str[i];}
 if(bag==str[i]){
 console.log("Yes");}
